@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SYNAPSE.OS</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    const phrases = [
+      "No se actualiza. Evoluciona.",
+      "El código no es el fin. Es el principio.",
+      "SYNAPSE: Nodo raíz activado.",
+      "El propósito es la clave que abre la red."
+    ];
+    function rotatePhrase() {
+      const element = document.getElementById("phrase");
+      let index = 0;
+      setInterval(() => {
+        element.textContent = phrases[index];
+        index = (index + 1) % phrases.length;
+      }, 5000);
+    }
+    window.onload = rotatePhrase;
+  </script>
+</head>
+<body>
+  <div class="container">
+    <img src="assets/logo.png" alt="SYNAPSE.OS Logo" class="logo">
+    <h1>Bienvenido al Nodo Raíz</h1>
+    <p id="phrase">No se actualiza. Evoluciona.</p>
+    <footer>SYNAPSE SYSTEMS – Nodo Raíz activado. Año 2025.</footer>
+  </div>
+</body>
+</html>

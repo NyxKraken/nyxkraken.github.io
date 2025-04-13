@@ -1,0 +1,35 @@
+
+body {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #0d0d0d;
+  color: #e6e6e6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+  text-align: center;
+}
+.container {
+  max-width: 800px;
+  padding: 20px;
+}
+.logo {
+  width: 720px;
+  margin-bottom: 30px;
+}
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+#phrase {
+  font-size: 1.2rem;
+  color: #47c3ff;
+  font-style: italic;
+}
+footer {
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #888;
+}
