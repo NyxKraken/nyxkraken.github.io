@@ -72,7 +72,7 @@ y sigue estrictamente los principios del hacking ético, la privacidad y la conc
 
 ## 🧙‍♂️ Contacto
 
-Creador del sistema: **ARISTOX**  
+Creador del sistema: **NyxKraken**  
 Correo: [synapse.aristox@proton.me](mailto:synapse.aristox@proton.me)  
 Firma digital: Disponible en [ProtonMail con HTML](https://proton.me)
 
