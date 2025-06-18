@@ -44,7 +44,7 @@ Pronto vendrán los módulos, entornos y funcionalidades interactivas.
 
 ## 🌐 Sitio del Nodo Raíz
 
-👉 [https://synapse-aristox.github.io/synapse-os-site/](https://synapse-aristox.github.io/synapse-os-site/)
+👉 https://nyxkraken.github.io/
 
 ---
 
